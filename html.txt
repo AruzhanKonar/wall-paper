@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>Aruzhan K</title>
+</head>
+<head>
+<body>
+<div class="zero-container">
+  <h1>Desktop Wallpapers.</h1>
+</div>
+
+<p align="center"><em>Choose your own wallpaper</strong></em></p>
+<hr>
+<p>On this site you can find wallpapers for every taste and color.</p>
+<img src="https://stepcdn.com/assets/legacy/f35/minion-gif-700x.gif" alt="cat">
+<hr>
+<h4 align="center">The most popular categories on our site</h4>
+<table>
+  <colgroup>
+    <col span="2" style="background:Violet">
+    <col style="background-color:Gray">
+  </colgroup>
+  <tr>
+  <th>N</th>
+  <th>Category</th>
+  <th>Statistics</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Nature, trees, flowers,oceans</td>
+    <td>50%</td>
+  </tr>
+<tr>
+  <td>2</td>
+  <td>Animals, cats and dog</td>
+  <td>35%</td>
+</tr>
+  <tr>
+    <td>3</td>
+    <td>Movies and anime</td>
+    <td>15%.</td>
+ <hr>
+  </tr>
+</table>
+<h5>Do you agree with the statistics?<h5>
+<form>
+  <input type="radio" id="html" name="benefit" value="YES">
+  <label for="Yes">YES</label><br>
+  <input type="radio" id="No" name="benefit" value="NO">
+  <label for="No">NO</label>
+<h3 align="center"><big>The most popular wallpapers on our site</big></h3>
+<p><img src="https://www.nastol.com.ua/large/202112/481567.jpg" alt="sea">
+<p><img src="https://www.nastol.com.ua/large/202002/382615.jpg" alt="3">
+<p><img src="https://www.nastol.com.ua/large/201911/371450.jpg" alt="4">
+<p><img src="https://www.nastol.com.ua/large/202108/471013.jpg" alt="5">
+<p><img src="https://www.nastol.com.ua/large/202108/469466.jpg" alt="6">
+<p><img src="https://www.nastol.com.ua/large/202112/480631.jpg" alt="7">
+<p><img src="https://www.nastol.com.ua/large/202111/477392.jpg" alt="8">
+<p><img src="https://www.nastol.com.ua/large/202111/478567.jpg" alt="9">
+<p><img src="" alt="10">
+</div>
+<hr>
+
+  </form>
+ 
+  <style>
+  p {goal: name;}
+  p.ex1 {display:inline-block;}
+  p.ex2 {display:none;}
+    </style>
+  </head>
+  <body>
+  <!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+<h2>Watch how to change wallpapers</h2>
+<p style="color:red;"> Generally, to change the wallpaper on Windows, you have to manually download it, right-click on the image, and select Set as Wallpaper.</p>
+<a href="https://www.youtube.com/watch?v=vs5HXhNWNEc">Visit the Tutorial</a>
+
+<p><img src="https://i.gifer.com/WS56.gif" alt="sea">
+
+</body>
+<div class="nav">
+  <nav>
+  <a href="https://wallpaperscraft.ru/catalog/nature./">Nature</a> |
+  <a href="https://wallpaperscraft.ru/catalog/animals/">Animals</a> |
+  <a href="https://wallpaperscraft.ru/catalog/food/">Food</a> |
+  <a href="https://wallpaperscraft.ru/catalog/anime/">Anime</a>
+  </nav>
+  <p>If you want to give some suggetions <a href="contactme.html">TEXT me</a></p>
+</div>
+<div class="ft"
+<h6=>Aruzhan.K(2021)</h6>
+</div>
+</body>
+</html>
+
+
+
+
